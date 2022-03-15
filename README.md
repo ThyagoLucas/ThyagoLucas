@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-<br><br>
+<br>
 
 <a href="https://www.linkedin.com/in/thyagolucas/">
   <img align="left" alt="Thyago Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -12,7 +12,7 @@
 </a>
 
 
-</br>
+</br> </br>
 
 
 - :ringed_planet: About me: a small man whit big dreams;
