@@ -1,7 +1,7 @@
 ### Hi, i'm Thyago Lucas 👋 ![](https://komarev.com/ghpvc/?username=thyagolucas)
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagolucas&layout=compact&langs_count=7&theme=dracula"/>
 <br>
 
 <a href="https://www.linkedin.com/in/thyagolucas/">
