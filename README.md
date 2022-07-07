@@ -9,7 +9,7 @@
 </a>
 
 
-</br> </br>
+</br>
 
 
 - :ringed_planet: About me: a small man whit big dreams;
@@ -21,6 +21,6 @@
 
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50%" height="400">
-<br><br><br>
+<br><br><br><br><br><br>
 <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagolucas&layout=compact&langs_count=7&theme=dracula"/>
 <br>
