@@ -9,8 +9,7 @@
 </a>
 
 
-</br>
-
+<br><br>
 
 - :ringed_planet: About me: a small man whit big dreams;
 - 🔭 I’m currently studying software engineering at UFAM 💻;
@@ -18,7 +17,6 @@
 - :star: At the moment, my favorite tool are: React, js, html and css; 
 - :beach_umbrella: When im dont working, im whit my family in some beach of amazonas river, its amazing!
 - ⚡ Fun fact: "code every month in one diferente place of the world, maybe outside him too. Why not? my fict my rules!"
-
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50%" height="400">
 <br><br><br><br><br><br>
