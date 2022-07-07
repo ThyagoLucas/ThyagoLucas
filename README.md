@@ -19,7 +19,8 @@
 - :beach_umbrella: When im dont working, im whit my family in some beach of amazonas river, its amazing!
 - ⚡ Fun fact: "code every month in one diferente place of the world, maybe outside him too. Why not? my fict my rules!"
 
-<br><br>
+<br>
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="50%" height="400">
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagolucas&layout=compact&langs_count=7&theme=dracula"/>
+<br><br>
+<img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagolucas&layout=compact&langs_count=7&theme=dracula"/>
 <br>
