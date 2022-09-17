@@ -1,4 +1,4 @@
-### Hi, i'm Thyago Lucas 👋 ![](https://komarev.com/ghpvc/?username=thyagolucas)
+### Opa, Eu sou o Thyago Lucas 👋 ![](https://komarev.com/ghpvc/?username=thyagolucas)
 
 
 <a href="https://www.linkedin.com/in/thyagolucas/">
@@ -11,12 +11,11 @@
 
 <br><br>
 
-- :ringed_planet: About me: a small man whit big dreams;
-- 🔭 I’m currently studying software engineering at UFAM 💻;
-- :hourglass_flowing_sand: Now, i'm learning fullstack development at Driven education ;
-- :star: At the moment, my favorite tool are: React, js, html and css; 
-- :beach_umbrella: When im dont working, im whit my family in some beach of amazonas river, its amazing!
-- ⚡ Fun fact: "code every month in one diferente place of the world, maybe outside him too. Why not? my fict my rules!"
+- :ringed_planet: Sobre mim: A small man whit big dreams;
+- :hourglass_flowing_sand: Desenvolvedor Web Fullstack - Driven Education;
+- :star: Atualmente minhas stacks favoritas são: ReactJs, NodeJs e TypeScript; 
+- :beach_umbrella: Quando não estou trabalhando gosto de pegar uma praia com a familia;
+- ⚡ Funfic: "Codar todo mês em um lugar diferente do mundo, quem sabe um dia poder codar fora dele também!" (Minha Fic, minhas regras);
 
 <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350px" height="400">
 <br><br><br><br><br><br>
