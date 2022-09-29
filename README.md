@@ -20,4 +20,3 @@
 <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350px" height="400">
 <br><br><br><br><br><br>
 <img  width="50%" align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thyagolucas&layout=compact&langs_count=7&theme=dracula"/>
-
