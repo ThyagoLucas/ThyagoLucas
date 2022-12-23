@@ -8,14 +8,9 @@
   <img align="left" alt="Thyago Whatsapp" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111774.png" />
 </a>
 
-
 <br><br>
-
-- :ringed_planet: Sobre mim: Um homem pequeno com grandes sonhos;
 - :hourglass_flowing_sand: Desenvolvedor Web Fullstack - Driven Education;
-- :star: Atualmente minhas stacks favoritas são: ReactJs, NodeJs e TypeScript; 
-- :beach_umbrella: Quando não estou trabalhando gosto de pegar uma praia com a familia;
-- ⚡ Funfic: "Codar todo mês em um lugar diferente do mundo, quem sabe um dia codar fora dele também!" (Minha Fic, minhas regras);
+- :star: Atualmente minhas stacks preferidas são: ReactJs, NodeJs e TypeScript; 
 
 <img align="left" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350px" height="400">
 <br><br><br><br><br><br>
